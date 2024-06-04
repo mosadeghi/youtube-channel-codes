@@ -1,7 +1,7 @@
 # memoization
 This note is from a video in my youtube channel,
 Link to the video: `will be added`
-Author: [mosadeghi](github.com/mosadeghi)
+Author: [mosadeghi](https://github.com/mosadeghi)
 ## "How to improve the performance of my recursive function?"
 Recursive functions are often a straightforward approach to solving certain problems. However, their runtime performance may not always be optimal. __Memoization__ is a technique for improving the runtime of recursive functions. Let's explore this concept using the well-known Fibonacci sequence as an example.
 
