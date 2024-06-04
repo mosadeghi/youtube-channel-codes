@@ -80,5 +80,5 @@ Links:
 - [list of contents](/README.md)
 - [my youtube channel](https://www.youtube.com/@amirmosadeghi)
 
-All notes and codes are written by [mosadeghi](github.com/mosadeghi). Parts of this text were originally written in Persian and then translated to English and edited using Google's Gemini AI.
+All notes and codes are written by [mosadeghi](https://github.com/mosadeghi). Parts of this text were originally written in Persian and then translated to English and edited using Google's Gemini AI.
 Sharing all materials and codes with attribution is allowed.
